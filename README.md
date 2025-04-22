@@ -41,12 +41,12 @@ The dataset originates from UK Train Rides a railway in UK that the passenger in
 |Reason for Delay| Reason for the delay or cancellation. |
 |Refund Request| Whether the passenger requested a refund after a delay or cancellation.|
 
-**Additional Custom Columns Created:**
+Additional Custom Columns Created:**
 -	Origin-destination: merged to column departure station and arrival destination.
 -	Delay time(minutes): the difference between arrival time and actual arrival time.
 -	Merged column: merge origin-destination, date of journey and departure time. 
 -	Purchase Hour: extracted hour from Purchase Time column.
-Data Analysis questions:
+## Data Analysis questions:
 **Performance Analysis**
 1-	What percentage of total trips were cancelled or delayed?
 2-	Which routes experience the highest number of delays or cancellations?
