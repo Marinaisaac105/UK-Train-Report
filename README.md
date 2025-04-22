@@ -41,7 +41,7 @@ The dataset originates from UK Train Rides a railway in UK that the passenger in
 |Reason for Delay| Reason for the delay or cancellation. |
 |Refund Request| Whether the passenger requested a refund after a delay or cancellation.|
 
-Additional Custom Columns Created:**
+**Additional Custom Columns Created:**
 -	Origin-destination: merged to column departure station and arrival destination.
 -	Delay time(minutes): the difference between arrival time and actual arrival time.
 -	Merged column: merge origin-destination, date of journey and departure time. 
@@ -58,7 +58,9 @@ Additional Custom Columns Created:**
 **Revenue Analysis**
 
 4-	Which routes generate the most revenue, and how does that correlate with trip volume or punctuality?
+
 5-	What is the revenue loss due to cancelled or delayed trips?
+
 6-	Is there a seasonal or monthly trend in revenue, delays, or cancellations?
 
 **Route Optimization**
