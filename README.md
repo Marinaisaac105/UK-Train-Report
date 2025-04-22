@@ -46,7 +46,7 @@ Additional Custom Columns Created:**
 -	Delay time(minutes): the difference between arrival time and actual arrival time.
 -	Merged column: merge origin-destination, date of journey and departure time. 
 -	Purchase Hour: extracted hour from Purchase Time column.
-## Data Analysis questions:
+## Data Analysis Questions:
 **Performance Analysis**
 
 1- What percentage of total trips were cancelled or delayed?
