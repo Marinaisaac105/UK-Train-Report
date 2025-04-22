@@ -48,19 +48,33 @@ Additional Custom Columns Created:**
 -	Purchase Hour: extracted hour from Purchase Time column.
 ## Data Analysis questions:
 **Performance Analysis**
-1-	What percentage of total trips were cancelled or delayed?
-2-	Which routes experience the highest number of delays or cancellations?
+
+1- What percentage of total trips were cancelled or delayed?
+
+2- Which routes experience the highest number of delays or cancellations?
+
 3-	Is there a relationship between the number of trips on a route and the delay/cancellation rate?
+
 **Revenue Analysis**
+
 4-	Which routes generate the most revenue, and how does that correlate with trip volume or punctuality?
 5-	What is the revenue loss due to cancelled or delayed trips?
 6-	Is there a seasonal or monthly trend in revenue, delays, or cancellations?
+
 **Route Optimization**
+
 7-	Which routes have the lowest performance (e.g., highest cancellations) and lowest revenue — candidates for reevaluation or discontinuation?
+
 8-	Which underperforming routes still bring in high revenue, possibly indicating essential services despite inefficiency?
+
 **Operational Efficiency**
+
 9-	Are certain time periods (days of the week, months) more prone to delays or cancellations?
+
 10-	What are the average delay durations per route or trip type?
+
 **Comparative Questions**
+
 11-	How do high-performing routes differ from low-performing ones in terms of trips, revenue, and delays?
+
 12-	what is the trend of trip volume and performance over time — is it improving or declining?
